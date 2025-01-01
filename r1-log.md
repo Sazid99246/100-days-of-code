@@ -28,4 +28,4 @@ Today's progress:
 1. Completed reading chapter 1.2 from the book **Computer Science: Programming with a purpose**, and practiced some problems from the exercise of the chapter. Actually there are lots of practices in every chapter of this book, so I think I need 2 or 3 more days to complete the full practice.
 2. Did Problem of the day from Geeksforgeeks, though it was tough for me, because I didn't know about sets and hashsests in java.
 3. Completed some more problems from Geeksforgeeks.
-3. Completed *Basic HTML*, attempted the quiz and passed, and built the video compilaton page.
+3. Completed *Basic HTML* from FreeCodeCamp, attempted the quiz and passed, and built the video compilaton page.
