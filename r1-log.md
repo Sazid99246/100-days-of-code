@@ -35,3 +35,9 @@ Today's progress:
 1. Solved Problem of the day from Geeksforgeeks
 2. Watched all videos on **Semantic HTML** from FreeCodeCamp and Completed the **Cat Blog Page** workshop.
 Actually it was a very tough day for me. I was busy all the day for my exam, and it went good Alhamdulillah. So, I got a little bit of practice time today.
+
+### Day 6: January 3, 2025, Friday
+Today's progress:
+1. Solved all the problems from chapter 1.2 of the book: **Computer Science: An Interdisciplinary Approach**. Hope to start chapter 1.3 of the same book from next day.
+2. Solved Problem of the day, and 1 more problem from Geeksforgeeks
+3. Built **An Event Hub page** from Freecodecamp, completed the quiz of Semantic HTML, and done with Semantic HTML.
