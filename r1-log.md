@@ -41,3 +41,8 @@ Today's progress:
 1. Solved all the problems from chapter 1.2 of the book: **Computer Science: An Interdisciplinary Approach**. Hope to start chapter 1.3 of the same book from next day.
 2. Solved Problem of the day, and 1 more problem from Geeksforgeeks
 3. Built **An Event Hub page** from Freecodecamp, completed the quiz of Semantic HTML, and done with Semantic HTML.
+
+### Day 7: January 4, 2025, Saturday
+1. Solved problem of the day from **Geeksforgeeks**
+2. Completed module 2 from the course **Computer Science: programming with a purpose**
+3. Done the Workshop **Build a Hotel Feedback Form**
