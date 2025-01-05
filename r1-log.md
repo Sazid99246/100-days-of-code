@@ -45,4 +45,19 @@ Today's progress:
 ### Day 7: January 4, 2025, Saturday
 1. Solved problem of the day from **Geeksforgeeks**
 2. Completed module 2 from the course **Computer Science: programming with a purpose**
-3. Done the Workshop **Build a Hotel Feedback Form**
+3. Watched videos on HTML form and completed the Workshop **Build a Hotel Feedback Form** from FreeCodeCamp
+
+### Day 8: January 5, 2025, Saturday
+1. Solved Problem of the Day from **GeeksforGeeks**
+
+From FreeCodeCamp's Full Stack Curricum
+2. Completed Lab **FreeCodeCamp Survey Form**
+3. Watched Lecture on HTML Table
+4. Completed the Workshop **Final Exam Table**
+5. Completed the Lab **Book Catalog Table**. I wish I could add more books and images of the books. Maybe I will do it later.
+6. Watched Videos on HTML Tools
+7. Completed the **HTML Table and Form Quiz**. Starting HTML Accessibility from tomorrow Inshallah.
+
+From the Book, Computer Science Programming with a purpose:
+8. Read about Conditions, and While loop from Chapter 1.3
+9. Solved 18 problems
