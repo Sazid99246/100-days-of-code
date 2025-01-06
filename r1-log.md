@@ -47,10 +47,10 @@ Today's progress:
 2. Completed module 2 from the course **Computer Science: programming with a purpose**
 3. Watched videos on HTML form and completed the Workshop **Build a Hotel Feedback Form** from FreeCodeCamp
 
-### Day 8: January 5, 2025, Saturday
+### Day 8: January 5, 2025, Sunday
 1. Solved Problem of the Day from **GeeksforGeeks**
 
-From FreeCodeCamp's Full Stack Curricum
+From FreeCodeCamp's Full Stack Curriculum
 2. Completed Lab **FreeCodeCamp Survey Form**
 3. Watched Lecture on HTML Table
 4. Completed the Workshop **Final Exam Table**
@@ -58,6 +58,20 @@ From FreeCodeCamp's Full Stack Curricum
 6. Watched Videos on HTML Tools
 7. Completed the **HTML Table and Form Quiz**. Starting HTML Accessibility from tomorrow Inshallah.
 
-From the Book, Computer Science Programming with a purpose:
+From the Book, Computer Science An Interdisciplinary Approach:
 8. Read about Conditions, and While loop from Chapter 1.3
 9. Solved 18 problems
+
+### Day 9: January 6, 2025, Monday
+1. Solved Problem of the day from **GeeksforGeeks**
+
+From FreeCodeCamp's Full Stack Curriculum
+2. Watched all videos on Accessibility.
+3. Completed the lab **Build a Checkout Page**
+4. Read the Review and Attempted the Quiz on Accessibility
+And by this, the HTML is at end. I am awaiting for the publishing of HTML Exam. Until that time, I will start learning CSS from tomorrow.
+
+From the book **Computer Science: An Interdisciplinary Approach**
+5. Completed reading the whole chapter 1.3
+2. Solved 5 more problems from the exercise.
+Today, I am a bit sick, so I couldn't code for a long time. Hope to code longer time tomorrow than today Inshallah
