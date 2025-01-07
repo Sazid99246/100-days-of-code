@@ -75,3 +75,8 @@ From the book **Computer Science: An Interdisciplinary Approach**
 5. Completed reading the whole chapter 1.3
 2. Solved 5 more problems from the exercise.
 Today, I am a bit sick, so I couldn't code for a long time. Hope to code longer time tomorrow than today Inshallah
+
+### Day 10: January 7, 2025, Tuesday
+1. Solved Problem of the day from **GeeksforGeeks**
+2. Watched and completed all quizzes on **Computer Basics** From FreeCodeCamp. Hope to Start CSS from tomorrow Inshallah
+3. Solved 9 more problems (1.3.24 - 1.3.32) from the book **Computer Science: An Interdisciplinary Approach**
