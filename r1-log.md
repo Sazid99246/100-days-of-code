@@ -80,3 +80,4 @@ Today, I am a bit sick, so I couldn't code for a long time. Hope to code longer 
 1. Solved Problem of the day from **GeeksforGeeks**
 2. Watched and completed all quizzes on **Computer Basics** From FreeCodeCamp. Hope to Start CSS from tomorrow Inshallah
 3. Solved 9 more problems (1.3.24 - 1.3.32) from the book **Computer Science: An Interdisciplinary Approach**
+The problems are getting harder and harder, and as a beginner, I am trying my best to understand each problem, and solve them. So, it is taking a long time to solve a problem, and for that, I am solving a few problems everyday.
