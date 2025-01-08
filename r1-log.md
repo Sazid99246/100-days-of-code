@@ -81,3 +81,13 @@ Today, I am a bit sick, so I couldn't code for a long time. Hope to code longer 
 2. Watched and completed all quizzes on **Computer Basics** From FreeCodeCamp. Hope to Start CSS from tomorrow Inshallah
 3. Solved 9 more problems (1.3.24 - 1.3.32) from the book **Computer Science: An Interdisciplinary Approach**
 The problems are getting harder and harder, and as a beginner, I am trying my best to understand each problem, and solve them. So, it is taking a long time to solve a problem, and for that, I am solving a few problems everyday.
+
+### Day 11: January 8, 2025, Wednesday
+Today was a super busy day for me. I was out of home from 7am-5pm. And after coming home, I got sick. So I could code a bit today.
+1. Solved Problem of the day from **GeeksforGeeks**
+
+On Freecodecamp
+2. Watched all the videos on **What is CSS**
+3. Completed the workshop **Design a Cafe Menu**
+
+4. Solved only 2 problems (1.3.33 - 1.3.34) from the book **Computer Science: An Interdisciplinary Approach**.
