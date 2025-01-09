@@ -91,3 +91,14 @@ On Freecodecamp
 3. Completed the workshop **Design a Cafe Menu**
 
 4. Solved only 2 problems (1.3.33 - 1.3.34) from the book **Computer Science: An Interdisciplinary Approach**.
+
+### Day 12: January 9, 2025, Thursday
+1. Solved Problem of the day from **GeeksforGeeks**
+
+On FreeCodeCamp
+2. Completed the Lab **Design a business card**, and created a business card on my own. I also added some styles beyond the project's requirement. Moreover, I added the icons from Font awesome. Here is my [live project](https://sazid99246.github.io/business-card/)
+3. Watched videos on **CSS Specificity**
+4. Read **Basic CSS Review**
+5. Attempted and passed **Basic CSS Quiz**
+
+6. Solved 11 problems(1.3.35 - 1.3.46)  From the book **Computer Science: An Interdisciplinary Approach**, and thus the problem of the chapter from the book has been solved. I am starting to solve the web exercises from tomorrow Inshallah.
