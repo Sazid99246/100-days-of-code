@@ -101,4 +101,14 @@ On FreeCodeCamp
 4. Read **Basic CSS Review**
 5. Attempted and passed **Basic CSS Quiz**
 
-6. Solved 11 problems(1.3.35 - 1.3.46)  From the book **Computer Science: An Interdisciplinary Approach**, and thus the problem of the chapter from the book has been solved. I am starting to solve the web exercises from tomorrow Inshallah.
+6. Solved 11 problems(1.3.35 - 1.3.46)  from the book **Computer Science: An Interdisciplinary Approach**, and thus the problem of the chapter from the book has been solved. I am starting to solve the web exercises from tomorrow Inshallah.
+
+
+### Day 13: January 10, 2025, Friday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On Freecodecamp
+2. Watched lectures on Styling lists and links
+3. Completed the lab **Build a Stylized To-Do List**. Here is the [live link](https://sazid99246.github.io/todo-list/)
+
+4. Solved 11 problems(1 - 11) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
