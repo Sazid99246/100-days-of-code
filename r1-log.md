@@ -118,4 +118,6 @@ On Freecodecamp
 
 On FreeCodeCamp
 2. Watched lectures on **Working with Backgrounds and Borders**
-3. Completed the lab **Design a blog post card**. Here is the [live link](https://sazid99246.github.io/blog-post-card/)
+3. Completed the lab **Design a blog post card**. Here is the [live link](https://sazid99246.github.io/blog-post-card/). I added some of my own styles here after completing this on website.
+
+4. Solved 11 more problems(12 - 22) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
