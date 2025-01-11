@@ -112,3 +112,10 @@ On Freecodecamp
 3. Completed the lab **Build a Stylized To-Do List**. Here is the [live link](https://sazid99246.github.io/todo-list/)
 
 4. Solved 11 problems(1 - 11) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
+
+### Day 14: January 11, 2025, Saturday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+2. Watched lectures on **Working with Backgrounds and Borders**
+3. Completed the lab **Design a blog post card**. Here is the [live link](https://sazid99246.github.io/blog-post-card/)
