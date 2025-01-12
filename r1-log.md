@@ -121,3 +121,14 @@ On FreeCodeCamp
 3. Completed the lab **Design a blog post card**. Here is the [live link](https://sazid99246.github.io/blog-post-card/). I added some of my own styles here after completing this on website.
 
 4. Solved 11 more problems(12 - 22) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
+
+### Day 15: January 12, 2025
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+2. Watched lectures on **Absolute and Relative Units**.
+3. Completed the lab **Build an Event Flyer Page**. Here is the [live link](https://sazid99246.github.io/event-flyer-page/)
+4. Read the review page.
+5. Attempted the quiz on **Absolute and Relative Units**.
+
+6. Solved 22 more problems(23 - 44) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
