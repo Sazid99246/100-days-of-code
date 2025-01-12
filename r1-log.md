@@ -131,4 +131,4 @@ On FreeCodeCamp
 4. Read the review page.
 5. Attempted the quiz on **Absolute and Relative Units**.
 
-6. Solved 22 more problems(23 - 44) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
+6. Solved 23 more problems(23 - 45) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
