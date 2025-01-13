@@ -132,3 +132,15 @@ On FreeCodeCamp
 5. Attempted the quiz on **Absolute and Relative Units**.
 
 6. Solved 23 more problems(23 - 45) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
+
+### Day 16: January 13, 2025
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+2. Watched lectures on **Psuedo Classes and Elements**.
+3. Completed the workshop **Design a Greeting Card**. Here is the [live site](https://sazid99246.github.io/greeting-card/)
+4. Completed the lab **Build a Job Application Form**. Here is the [live site](https://sazid99246.github.io/job-application-form/)
+5. Read the review page.
+6. Attempted the quiz on **CSS Pseudo-classes quiz**.
+
+6. Solved 2 more problems(46 - 47) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
