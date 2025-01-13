@@ -122,7 +122,7 @@ On FreeCodeCamp
 
 4. Solved 11 more problems(12 - 22) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
 
-### Day 15: January 12, 2025
+### Day 15: January 12, 2025, Sunday
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
@@ -133,7 +133,7 @@ On FreeCodeCamp
 
 6. Solved 23 more problems(23 - 45) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
 
-### Day 16: January 13, 2025
+### Day 16: January 13, 2025, Monday
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
