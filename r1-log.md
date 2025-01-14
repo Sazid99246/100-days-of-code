@@ -5,39 +5,33 @@ The log of my #100DaysOfCode challenge. Started on December 29, Sunday, 2024.
 ## Log
 
 ### Day 1: December 29, 2024, Sunday 
-Today's  progress:
 1. Started the course Computer Science: programming with a purpose on Coursera, watched first 2 videos
 2. Read chapter 1.1 from the book **Computer Science: An Interdisciplinary Approach**, and practiced the exercises.
 3. Did Problem of the day from Geeksforgeeks
 4. Started with the new full stack curriculum from Freecodecamp, and completed the cat photo app.
 
 ### Day 2: December 30, 2024, Monday
-Today's  progress:
 1. Completed watching the videos and done with the first graded assignment of the Coursera course: Computer Science, programming with a purpose.
 2. Did Problem of the day from Geeksforgeeks
 3. Completed the recipe page from Freecodecamp's full stack certification.
 
 ### Day 3: December 31, 2024, Tuesday
-Today's  progress:
 1. Read some pages of chapter 1.2 from the book **Computer Science: An interdisciplinary Approach**, and practiced some problems from the exercise of the chapter.
 2. Did Problem of the day from Geeksforgeeks
 3. Watched all 10 videos on **HTML Foundations** from FreeCodeCamp, and build the **Travel Agency page**.
 
 ### Day 4: January 1, 2025, Wednesday
-Today's progress:
 1. Completed reading chapter 1.2 from the book **Computer Science: An interdisciplinary Approach**, and practiced some problems from the exercise of the chapter. Actually there are lots of practices in every chapter of this book, so I think I need 2 or 3 more days to complete the full practice.
 2. Did Problem of the day from Geeksforgeeks, though it was tough for me, because I didn't know about sets and hashsests in java.
 3. Completed some more problems from Geeksforgeeks.
 4. Completed *Basic HTML* from FreeCodeCamp, attempted the quiz and passed, and built the video compilation page.
 
 ### Day 5: January 2, 2025, Thursday
-Today's progress:
 1. Solved Problem of the day from Geeksforgeeks
 2. Watched all videos on **Semantic HTML** from FreeCodeCamp and Completed the **Cat Blog Page** workshop.
 Actually it was a very tough day for me. I was busy all the day for my exam, and it went good Alhamdulillah. So, I got a little bit of practice time today.
 
 ### Day 6: January 3, 2025, Friday
-Today's progress:
 1. Solved all the problems from chapter 1.2 of the book: **Computer Science: An Interdisciplinary Approach**. Hope to start chapter 1.3 of the same book from next day.
 2. Solved Problem of the day, and 1 more problem from Geeksforgeeks
 3. Built **An Event Hub page** from Freecodecamp, completed the quiz of Semantic HTML, and done with Semantic HTML.
@@ -143,4 +137,17 @@ On FreeCodeCamp
 5. Read the review page.
 6. Attempted the quiz on **CSS Pseudo-classes quiz**.
 
-6. Solved 2 more problems(46 - 47) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
+7. Solved 2 more problems(46 - 47) from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**.
+
+### Day 17: January 14, 2025, Tuesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+2. Watched lectures on **CSS Colors**
+3. Completed the workshop **Build a set of colored markers**. Here is the [live link](https://sazid99246.github.io/colored-markers/)
+4. Completed the Lab **Design a set of colored boxes**. Here is the [live link](https://sazid99246.github.io/colored-boxes/)
+5. Read the review page
+6. Attempted the CSS Colors quiz and passed
+7. Watched all lectures and attempted the quiz from the **Design** section.
+
+8. Solved the rest of the problems from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**. Actually the patterns of the problems are quite same. So, I skipped some problems and moved on. From tomorrow, I will start Chapter 1.4 Inshallah.
