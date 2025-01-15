@@ -45,6 +45,7 @@ Actually it was a very tough day for me. I was busy all the day for my exam, and
 1. Solved Problem of the Day from **GeeksforGeeks**
 
 From FreeCodeCamp's Full Stack Curriculum
+==================================
 2. Completed Lab **FreeCodeCamp Survey Form**
 3. Watched Lecture on HTML Table
 4. Completed the Workshop **Final Exam Table**
@@ -53,6 +54,7 @@ From FreeCodeCamp's Full Stack Curriculum
 7. Completed the **HTML Table and Form Quiz**. Starting HTML Accessibility from tomorrow Inshallah.
 
 From the Book, Computer Science An Interdisciplinary Approach:
+====================================
 8. Read about Conditions, and While loop from Chapter 1.3
 9. Solved 18 problems
 
@@ -60,12 +62,14 @@ From the Book, Computer Science An Interdisciplinary Approach:
 1. Solved Problem of the day from **GeeksforGeeks**
 
 From FreeCodeCamp's Full Stack Curriculum
+========================
 2. Watched all videos on Accessibility.
 3. Completed the lab **Build a Checkout Page**
 4. Read the Review and Attempted the Quiz on Accessibility
 And by this, the HTML is at end. I am awaiting for the publishing of HTML Exam. Until that time, I will start learning CSS from tomorrow.
 
 From the book **Computer Science: An Interdisciplinary Approach**
+=======================
 5. Completed reading the whole chapter 1.3
 2. Solved 5 more problems from the exercise.
 Today, I am a bit sick, so I couldn't code for a long time. Hope to code longer time tomorrow than today Inshallah
@@ -81,6 +85,7 @@ Today was a super busy day for me. I was out of home from 7am-5pm. And after com
 1. Solved Problem of the day from **GeeksforGeeks**
 
 On Freecodecamp
+===============================
 2. Watched all the videos on **What is CSS**
 3. Completed the workshop **Design a Cafe Menu**
 
@@ -90,6 +95,7 @@ On Freecodecamp
 1. Solved Problem of the day from **GeeksforGeeks**
 
 On FreeCodeCamp
+===============================
 2. Completed the Lab **Design a business card**, and created a business card on my own. I also added some styles beyond the project's requirement. Moreover, I added the icons from Font awesome. Here is my [live project](https://sazid99246.github.io/business-card/)
 3. Watched videos on **CSS Specificity**
 4. Read **Basic CSS Review**
@@ -102,6 +108,7 @@ On FreeCodeCamp
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On Freecodecamp
+=============================
 2. Watched lectures on Styling lists and links
 3. Completed the lab **Build a Stylized To-Do List**. Here is the [live link](https://sazid99246.github.io/todo-list/)
 
@@ -111,6 +118,7 @@ On Freecodecamp
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
+==========================
 2. Watched lectures on **Working with Backgrounds and Borders**
 3. Completed the lab **Design a blog post card**. Here is the [live link](https://sazid99246.github.io/blog-post-card/). I added some of my own styles here after completing this on website.
 
@@ -131,6 +139,7 @@ On FreeCodeCamp
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
+===================================
 2. Watched lectures on **Psuedo Classes and Elements**.
 3. Completed the workshop **Design a Greeting Card**. Here is the [live site](https://sazid99246.github.io/greeting-card/)
 4. Completed the lab **Build a Job Application Form**. Here is the [live site](https://sazid99246.github.io/job-application-form/)
@@ -143,6 +152,7 @@ On FreeCodeCamp
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
+==========================
 2. Watched lectures on **CSS Colors**
 3. Completed the workshop **Build a set of colored markers**. Here is the [live link](https://sazid99246.github.io/colored-markers/)
 4. Completed the Lab **Design a set of colored boxes**. Here is the [live link](https://sazid99246.github.io/colored-boxes/)
@@ -151,3 +161,20 @@ On FreeCodeCamp
 7. Watched all lectures and attempted the quiz from the **Design** section.
 
 8. Solved the rest of the problems from Web Exercises on Chapter 1.3 from the online version of the book **Computer Science: An Interdisciplinary Approach**. Actually the patterns of the problems are quite same. So, I skipped some problems and moved on. From tomorrow, I will start Chapter 1.4 Inshallah.
+
+### Day 18: January 15, 2025, Wednesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+========================
+2. Watched lectures on **Best Practices for Styling Forms**.
+3. Completed the workshop **Design a Registration Form**. Here is the [live link](https://sazid99246.github.io/registration-form/)
+4. Completed the lab **Design a Contact Form**. Here is the [live site](https://sazid99246.github.io/contact-form/)
+5. Read the review page
+6. Attempted the quiz and passed.
+
+From the course **Computer Science: Programming with a purpose**
+========================
+7. Completed watching the videos of module-3
+8. Attempted the Graded Assignment or quiz, and passed after 3 times.
+9. Started working on programming assignment, but not finished. This time, the problems of the assignment is very much complicated. So, I couldn't do it in one time. I think I have to sit multiple times on this assignment.
