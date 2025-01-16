@@ -177,7 +177,7 @@ From the course **Computer Science: Programming with a purpose**
 ========================
 7. Completed watching the videos of module-3
 8. Attempted the Graded Assignment or quiz, and passed after 3 times.
-9. Started working on programming assignment, but not finished. This time, the problems of the assignment is very much complicated. So, I couldn't do it in one time. I think I have to sit multiple times on this assignment.
+9. Started working on programming assignment, but not finished. This time, the problems of the assignment are very much complicated. So, I couldn't do it in one time. I think I have to sit multiple times on this assignment.
 
 
 ### Day 19: January 16, 2025, Thursday
@@ -193,7 +193,7 @@ On FreeCodeCamp
 
 From the course **Computer Science: Programming with a purpose**
 =====================
-7. Completed the programming assignment. The problems of the assignment was a bit tricky. So, I took help from Chatgpt and others' solutions around the web, and completed it.
+7. Completed the programming assignment. The problems of the assignment were a bit tricky. So, I took help from Chatgpt and others' solutions around the web, and completed it.
 
 From the book **Computer Science: An Interdisciplinary Approach**
 ========================
