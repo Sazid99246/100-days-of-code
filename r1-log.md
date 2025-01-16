@@ -178,3 +178,24 @@ From the course **Computer Science: Programming with a purpose**
 7. Completed watching the videos of module-3
 8. Attempted the Graded Assignment or quiz, and passed after 3 times.
 9. Started working on programming assignment, but not finished. This time, the problems of the assignment is very much complicated. So, I couldn't do it in one time. I think I have to sit multiple times on this assignment.
+
+
+### Day 19: January 16, 2025, Thursday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+========================
+2. Watched lectures on **CSS Box Models**.
+3. Completed the workshop **Design a rothko painting**. Here is the [live link](https://sazid99246.github.io/rothko-painting/)
+4. Completed the lab **Build a Confidential Email Page**. Here is the [live link](https://sazid99246.github.io/confidential-email/)
+5. Read the review page.
+6. Attempted the quiz and passed.
+
+From the course **Computer Science: Programming with a purpose**
+=====================
+7. Completed the programming assignment. The problems of the assignment was a bit tricky. So, I took help from Chatgpt and others' solutions around the web, and completed it.
+
+From the book **Computer Science: An Interdisciplinary Approach**
+========================
+8. Read about one dimensional array from chapter 1.4, saw the example problems and solutions carefully, and practiced them.
+9. Solved 12 problems from the exercise section of the chapter.
