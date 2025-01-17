@@ -199,3 +199,20 @@ From the book **Computer Science: An Interdisciplinary Approach**
 ========================
 8. Read about one dimensional array from chapter 1.4, saw the example problems and solutions carefully, and practiced them.
 9. Solved 12 problems from the exercise section of the chapter.
+
+### Day 20, January 17, 2025, Friday
+
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+========================
+2. Watched lectures on **Flexbox**.
+3. Completed the workshop **Build a Flexbox Photo Gallery**. Here is the [live link](https://sazid99246.github.io/flexbox-photo-gallery/)
+4. Completed the lab **Build a Page of Playing Cards**. Here is the [live link](https://sazid99246.github.io/playing-cards/)
+5. Read the review page.
+6. Attempted the quiz and passed.
+
+From the book **Computer Science: An Interdisciplinary Approach**
+========================
+7. Read about two dimensional array from chapter 1.4, saw the example problems and solutions carefully, and practiced them, and completed reading the chapter.
+8. Solved some more problems from the exercise section of the chapter.
