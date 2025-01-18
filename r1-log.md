@@ -216,3 +216,14 @@ From the book **Computer Science: An Interdisciplinary Approach**
 ========================
 7. Read about two dimensional array from chapter 1.4, saw the example problems and solutions carefully, and practiced them, and completed reading the chapter.
 8. Solved some more problems from the exercise section of the chapter.
+
+### Day 21, January 18, 2025, Saturday
+
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+========================
+2. Watched lectures on **Typography**.
+3. Started working on the workshop **Build a Nutritional Label**, and worked till step-21.
+
+Today was a very busy and enjoyable day for me. I went to the Dhaka International Trade Fair(DITF), and spent the whole day (7am - 5pm). After coming home, I got so tired. So I couldn't code more today.
