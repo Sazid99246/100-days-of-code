@@ -201,7 +201,6 @@ From the book **Computer Science: An Interdisciplinary Approach**
 9. Solved 12 problems from the exercise section of the chapter.
 
 ### Day 20, January 17, 2025, Friday
-
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
@@ -218,7 +217,6 @@ From the book **Computer Science: An Interdisciplinary Approach**
 8. Solved some more problems from the exercise section of the chapter.
 
 ### Day 21, January 18, 2025, Saturday
-
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
@@ -227,3 +225,19 @@ On FreeCodeCamp
 3. Started working on the workshop **Build a Nutritional Label**, and worked till step-21.
 
 Today was a very busy and enjoyable day for me. I went to the Dhaka International Trade Fair(DITF), and spent the whole day (7am - 5pm). After coming home, I got so tired. So I couldn't code more today.
+
+### Day 22, January 19, 2025, Sunday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+====================================
+2. Completed the workshop **Build a Nutritional Label** started yesterday. Here is the [live link](https://sazid99246.github.io/nutrition-label/)
+3. Completed the lab **Build a Newspaper Article**. Here is the [live link](https://sazid99246.github.io/newspaper-article/)
+4. Read the review page
+5. Attempted the quiz and passed.
+
+From the course **Computer Science: Programming with a Purpose**
+=============================================
+6. Started Module 4 and watched all videos
+7. Attempted the quiz, and passed.
+8. Compleeted the programming assignment.
