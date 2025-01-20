@@ -241,3 +241,13 @@ From the course **Computer Science: Programming with a Purpose**
 6. Started Module 4 and watched all videos
 7. Attempted the quiz, and passed.
 8. Compleeted the programming assignment.
+
+### Day 23, January 20, 2025, Monday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+===========================
+2. Watched all videos on Accessibility.
+3. Started the workshop **Build a Quiz Webpage**, worked till step-19.
+
+I am very much sick today. I have attacked with cold fever. So, I tried to study, and studied a bit. Please pray for me. Bye.
