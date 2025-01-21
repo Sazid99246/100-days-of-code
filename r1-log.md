@@ -260,3 +260,7 @@ On FreeCodeCamp
 =====================================
 2. Completed the workshop **Build a Quiz Webpage**. Here is the [live link](https://sazid99246.github.io/freecodecamp-html-css-quiz/)
 3. Completed the lab **Build a Tribute page**. Here is the [live link](https://sazid99246.github.io/tribute-page/)
+4. Read the review page.
+5. Attempted the quiz and passed.
+
+Today, I am feeling comparatively better than yesterday Alhamdulillah. So I did what I could.
