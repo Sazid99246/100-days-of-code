@@ -251,3 +251,12 @@ On FreeCodeCamp
 3. Started the workshop **Build a Quiz Webpage**, worked till step-19.
 
 I am very much sick today. I have attacked with cold fever. So, I tried to study, and studied a bit. Please pray for me. Bye.
+
+
+### Day 24, January 21, 2025, Tuesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=====================================
+2. Completed the workshop **Build a Quiz Webpage**. Here is the [live link](https://sazid99246.github.io/freecodecamp-html-css-quiz/)
+3. Completed the lab **Build a Tribute page**. Here is the [live link](https://sazid99246.github.io/tribute-page/)
