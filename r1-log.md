@@ -264,3 +264,19 @@ On FreeCodeCamp
 5. Attempted the quiz and passed.
 
 Today, I am feeling comparatively better than yesterday Alhamdulillah. So I did what I could.
+
+### Day 25, January 22, 2025, Wednesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+===============================================
+2. Watched lectures on **Attribute Selectors**
+3. Completed the workshop **Build a balance sheet**.Here is the [live link](https://sazid99246.github.io/balance-sheet/).
+4. Completed the lab **Build a Book Inventory App**. Here is the [live link](https://sazid99246.github.io/book-inventory/).
+5. Read the review page.
+6. Attempted the quiz and passed.
+
+From the book **Computer Science: An Interdisciplinary Approach**
+======================
+7. Read about standard input and standard output in java from chapter 1.5.
+8. Solved 4 problems from the exercise part of the chapter.
