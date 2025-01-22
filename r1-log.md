@@ -280,3 +280,5 @@ From the book **Computer Science: An Interdisciplinary Approach**
 ======================
 7. Read about standard input and standard output in java from chapter 1.5.
 8. Solved 4 problems from the exercise part of the chapter.
+
+Alhamdulillah I am doing much better than the last 2 days.
