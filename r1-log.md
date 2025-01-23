@@ -282,3 +282,19 @@ From the book **Computer Science: An Interdisciplinary Approach**
 8. Solved 4 problems from the exercise part of the chapter.
 
 Alhamdulillah I am doing much better than the last 2 days.
+
+### Day 26, January 23, 2025, Wednesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=============================
+2. Watched lectures on **CSS Positioning**.
+3. Completed the workshop **Build a Cat Painting**.Here is the [live link](https://sazid99246.github.io/cat-painting/).
+4. Completed the lab **Build a House Painting**. Here is the [live link](https://sazid99246.github.io/house-painting/).
+5. Read the review page.
+6. Attempted the quiz and passed.
+
+From the book **Computer Science: An Interdisciplinary Approach**
+===================================
+7. Read the rest of the chapter 1.5, which includes Java Standard Drawing and Standard Audio. 
+8. Practiced the example programs written in the book.
