@@ -283,7 +283,7 @@ From the book **Computer Science: An Interdisciplinary Approach**
 
 Alhamdulillah I am doing much better than the last 2 days.
 
-### Day 26, January 23, 2025, Wednesday
+### Day 26, January 23, 2025, Thursday
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
@@ -298,3 +298,18 @@ From the book **Computer Science: An Interdisciplinary Approach**
 ===================================
 7. Read the rest of the chapter 1.5, which includes Java Standard Drawing and Standard Audio. 
 8. Practiced the example programs written in the book.
+
+### Day 27, January 24, 2025, Friday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=============================
+2. Watched lectures on **Responsive Design**.
+3. Completed the workshop **Design a Piano**.Here is the [live link](https://sazid99246.github.io/freecodecamp-piano/).
+4. Completed the lab **Build a Technical Documentation Page**. Here is the [live link](https://sazid99246.github.io/technical-documentation-page/).
+5. Read the review page.
+6. Attempted the quiz and passed.
+
+From the book **Computer Science: An Interdisciplinary Approach**
+===================================
+7. Practiced 3 problems from the exercise section of the chapter 1.5,
