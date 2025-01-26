@@ -327,4 +327,4 @@ On FreeCodeCamp
 
 On FreeCodeCamp
 =========================
-2. Completed the workshop **City Skyline**.
+2. Completed the workshop **City Skyline**. Here is the [live link](https://sazid99246.github.io/city-skyline/)
