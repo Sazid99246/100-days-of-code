@@ -313,3 +313,18 @@ On FreeCodeCamp
 From the book **Computer Science: An Interdisciplinary Approach**
 ===================================
 7. Practiced 3 problems from the exercise section of the chapter 1.5,
+
+### Day 28, January 25, Saturday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched lectures on CSS Variables
+3. Started the workshop **Build a City Skyline**, and worked till step 82. Actually, this is a very long workshop. So I couldn't finish it today.
+
+### Day 29, January 26, Sunday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Completed the workshop **City Skyline**.
