@@ -328,3 +328,10 @@ On FreeCodeCamp
 On FreeCodeCamp
 =========================
 2. Completed the workshop **City Skyline**. Here is the [live link](https://sazid99246.github.io/city-skyline/)
+
+### Day 30, January 27, Sunday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Completed the Lab **Build an Availability Table**. Here is the [live link](https://sazid99246.github.io/availability-table/)
