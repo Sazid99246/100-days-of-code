@@ -329,9 +329,19 @@ On FreeCodeCamp
 =========================
 2. Completed the workshop **City Skyline**. Here is the [live link](https://sazid99246.github.io/city-skyline/)
 
-### Day 30, January 27, Sunday
+### Day 30, January 27, Monday
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
 =========================
 2. Completed the Lab **Build an Availability Table**. Here is the [live link](https://sazid99246.github.io/availability-table/)
+3. Read the review page.
+4. Attempted the quiz and passed.
+
+### Day 31, January 28, Tuesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched lectures on **CSS Grid**.
+3. Started the workshop **Build a Magazine**, and worked till step-15.
