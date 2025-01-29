@@ -346,7 +346,7 @@ On FreeCodeCamp
 2. Watched lectures on **CSS Grid**.
 3. Started the workshop **Build a Magazine**, and worked till step-15.
 
-### Day 32, January 28, Tuesday
+### Day 32, January 28, Wednesday
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
