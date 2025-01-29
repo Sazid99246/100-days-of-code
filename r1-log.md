@@ -240,7 +240,7 @@ From the course **Computer Science: Programming with a Purpose**
 =============================================
 6. Started Module 4 and watched all videos
 7. Attempted the quiz, and passed.
-8. Compleeted the programming assignment.
+8. Completed the programming assignment.
 
 ### Day 23, January 20, 2025, Monday
 1. Solved Problem of the day on **GeeksforGeeks**
@@ -345,3 +345,16 @@ On FreeCodeCamp
 =========================
 2. Watched lectures on **CSS Grid**.
 3. Started the workshop **Build a Magazine**, and worked till step-15.
+
+### Day 32, January 28, Tuesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+3. Completed the workshop **Build a Magazine**. Here is the [live link](https://sazid99246.github.io/build-a-magazine/).
+
+From the course **Computer Science: Programming with a Purpose**
+==========================
+4. Started Module 5 and watched all videos
+5. Attempted the quiz, and passed.
+6. Completed the programming assignment.
