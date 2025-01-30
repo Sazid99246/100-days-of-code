@@ -346,7 +346,7 @@ On FreeCodeCamp
 2. Watched lectures on **CSS Grid**.
 3. Started the workshop **Build a Magazine**, and worked till step-15.
 
-### Day 32, January 28, Wednesday
+### Day 32, January 29, Wednesday
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
@@ -358,3 +358,10 @@ From the course **Computer Science: Programming with a Purpose**
 4. Started Module 5 and watched all videos
 5. Attempted the quiz, and passed.
 6. Completed the programming assignment.
+
+### Day 33, January 30, Wednesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+3. Completed the lab **Design a Magazine Layout**. Here is the [live link](https://sazid99246.github.io/magazine-layout/).
