@@ -365,3 +365,10 @@ From the course **Computer Science: Programming with a Purpose**
 On FreeCodeCamp
 =========================
 3. Completed the lab **Design a Magazine Layout**. Here is the [live link](https://sazid99246.github.io/magazine-layout/).
+
+### Day 34, January 31, Wednesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+3. Completed the lab **Design a Product Landing Page**. Here is the [live link](https://sazid99246.github.io/product-landing-page/).
