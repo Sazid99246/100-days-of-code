@@ -359,16 +359,24 @@ From the course **Computer Science: Programming with a Purpose**
 5. Attempted the quiz, and passed.
 6. Completed the programming assignment.
 
-### Day 33, January 30, Wednesday
+### Day 33, January 30, Thursday
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
 =========================
 3. Completed the lab **Design a Magazine Layout**. Here is the [live link](https://sazid99246.github.io/magazine-layout/).
 
-### Day 34, January 31, Wednesday
+### Day 34, January 31, Friday
 1. Solved Problem of the day on **GeeksforGeeks**
 
 On FreeCodeCamp
 =========================
 3. Completed the lab **Design a Product Landing Page**. Here is the [live link](https://sazid99246.github.io/product-landing-page/).
+
+### Day 35, February 1, Saturday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched videos on **Animations and Accessibility**.
+3. Completed the workshop **Build an Animated Frerris Wheel**. Here is the [live link](https://sazid99246.github.io/ferrris-wheel/).
