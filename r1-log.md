@@ -379,4 +379,12 @@ On FreeCodeCamp
 On FreeCodeCamp
 =========================
 2. Watched videos on **Animations and Accessibility**.
-3. Completed the workshop **Build an Animated Frerris Wheel**. Here is the [live link](https://sazid99246.github.io/ferrris-wheel/).
+3. Completed the workshop **Build an Animated Ferris Wheel**. Here is the [live link](https://sazid99246.github.io/ferrris-wheel/).
+
+### Day 36, February 2, Sunday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Completed the lab **Build a Moon Orbit**. Here is the [live link](https://sazid99246.github.io/moon-orbit/)
+3. Completed the workshop **Build a Flappy Penguin**. Here is the [live link](https://sazid99246.github.io/fluppy-penguin/)
