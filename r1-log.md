@@ -388,3 +388,17 @@ On FreeCodeCamp
 =========================
 2. Completed the lab **Build a Moon Orbit**. Here is the [live link](https://sazid99246.github.io/moon-orbit/)
 3. Completed the workshop **Build a Flappy Penguin**. Here is the [live link](https://sazid99246.github.io/fluppy-penguin/)
+
+### Day 37, February 3, Monday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Started the lab **Build a Personal Portfolio**, and finished the navbar and banner. I wish to complete it in next 2 days.
+3. Read the CSS Animation Review Page and attempted the quiz of **CSS Animation**.
+4. Read the CSS Review page, and waiting for the CSS Exam.
+
+From the book **Computer Science: An Interdisciplinary Approach**
+================================
+5. Read the chapter 2.1 and practiced with the example programs.
+6. Solved 1 exercise (2.1.1).
