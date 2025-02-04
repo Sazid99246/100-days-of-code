@@ -402,3 +402,12 @@ From the book **Computer Science: An Interdisciplinary Approach**
 ================================
 5. Read the chapter 2.1 and practiced with the example programs.
 6. Solved 1 exercise (2.1.1).
+
+### Day 38, February 4, Tuesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Completed the lab **Build a Personal Portfolio**. Here is the [live link](https://sazid99246.github.io/freecodecamp-portfolio/)
+3. Thus, finished the CSS Section of the **Certified Full Stack Developer**.
+4. Finished the **Responsive Web Design Certification**, and earned the certificate. Here is the link to the [certificate](https://www.freecodecamp.org/certification/Sazid99246/responsive-web-design).
