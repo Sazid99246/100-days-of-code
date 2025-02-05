@@ -411,3 +411,14 @@ On FreeCodeCamp
 2. Completed the lab **Build a Personal Portfolio**. Here is the [live link](https://sazid99246.github.io/freecodecamp-portfolio/)
 3. Thus, finished the CSS Section of the **Certified Full Stack Developer**.
 4. Finished the **Responsive Web Design Certification**, and earned the certificate. Here is the link to the [certificate](https://www.freecodecamp.org/certification/Sazid99246/responsive-web-design).
+
+### Day 39, February 5, Wednesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Started the JavaScript part of the **Certified Full Stack Developer**.
+3. Watched lectures on **Code Editors**.
+4. Watched lectures on **Introduction to JavaScript**.
+5. Completed the workshop **Build a Greeting Bot**.
+6. Completed the lab **Build a Trivia Bot**.
