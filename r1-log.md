@@ -422,3 +422,12 @@ On FreeCodeCamp
 4. Watched lectures on **Introduction to JavaScript**.
 5. Completed the workshop **Build a Greeting Bot**.
 6. Completed the lab **Build a Trivia Bot**.
+
+### Day 40, February 6, Thursday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Completed the lab **Build a Sentence Maker**. It was really a funny project.
+3. Read the Review page **JavaScript Variable and Data Types Review**.
+4. Attempted **JavaScript Variable and Data Type Quiz** and passed.
