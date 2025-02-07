@@ -431,3 +431,14 @@ On FreeCodeCamp
 2. Completed the lab **Build a Sentence Maker**. It was really a funny project.
 3. Read the Review page **JavaScript Variable and Data Types Review**.
 4. Attempted **JavaScript Variable and Data Type Quiz** and passed.
+
+### Day 41, February 7, Friday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched the lectures on **Working with Strings in JavaScript**.
+3. Completed the workshop **Build a teacher chatbot**.
+4. Watched the lectures on **Working with Common String Methods**.
+5. Read the review page **JavaScript Strings Review**.
+6. Attempted the quiz and passed.
