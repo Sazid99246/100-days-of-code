@@ -442,3 +442,12 @@ On FreeCodeCamp
 4. Watched the lectures on **Working with Common String Methods**.
 5. Read the review page **JavaScript Strings Review**.
 6. Attempted the quiz and passed.
+
+### Day 42, February 8, Saturday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched Lectures on Numbers, Booleans and Math Object.
+
+I am very tired today. So I could just watched the videos and ca not do any lab or workshop project today. Hope to do a better progress tomorrow.
