@@ -451,3 +451,14 @@ On FreeCodeCamp
 2. Watched Lectures on Numbers, Booleans and Math Object.
 
 I am very tired today. So I could just watched the videos and ca not do any lab or workshop project today. Hope to do a better progress tomorrow.
+
+### Day 43, February 9, Sunday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Completed the workshop **Build a Mathbot**.
+3. Completed the lab **Build a fortune teller**.
+4. Watched videos on **Working with numbers and Common Number Methods**.
+5. Read the article **JavaScript Math Review**.
+6. Attended the Quiz **JavaScript Math Quiz**.
