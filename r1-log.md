@@ -462,3 +462,12 @@ On FreeCodeCamp
 4. Watched videos on **Working with numbers and Common Number Methods**.
 5. Read the article **JavaScript Math Review**.
 6. Attended the Quiz **JavaScript Math Quiz**.
+
+### Day 44, February 10, Monday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched lectures on **Understanding Comparisons and Conditionals**.
+3. Read the article **JavaScript Comparisons and Conditionals Review**.
+4. Attempted the quiz and passed.
