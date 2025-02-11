@@ -471,3 +471,10 @@ On FreeCodeCamp
 2. Watched lectures on **Understanding Comparisons and Conditionals**.
 3. Read the article **JavaScript Comparisons and Conditionals Review**.
 4. Attempted the quiz and passed.
+
+### Day 45, February 11, Tuesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched lectures on **Working with Functions**.
