@@ -487,3 +487,15 @@ On FreeCodeCamp
 2. Completed the Workshop **Build a Calculator**.
 3. Completed the Lab **Build an Email masker**.
 4. Completed the Lab **Build a Loan Qualification Checker**.
+
+### Day 47, February 13, Thursday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Completed the Lab **Build a Leap Year Calculator**.
+3. Read the article **JavaScript Functions Review**.
+4. Attempted the quiz **JavaScript Functions Quiz**.
+5. Watched the lectures of **Working with Arrays**.
+6. Completed the workshop **Build a Shopping List**.
+7. Completed the lab **Build a lunch picker program**.
