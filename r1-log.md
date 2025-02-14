@@ -499,3 +499,12 @@ On FreeCodeCamp
 5. Watched the lectures of **Working with Arrays**.
 6. Completed the workshop **Build a Shopping List**.
 7. Completed the lab **Build a lunch picker program**.
+
+### Day 48, February 14, Friday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched Lectures on **Working with Common Array Methods**.
+3. Read the Review article **JavaScript Array Review**.
+4. Attempted the quiz **JavaScript Array Quiz**.
