@@ -508,3 +508,14 @@ On FreeCodeCamp
 2. Watched Lectures on **Working with Common Array Methods**.
 3. Read the Review article **JavaScript Array Review**.
 4. Attempted the quiz **JavaScript Array Quiz**.
+
+### Day 49, February 15, Saturday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched lectures on **Working with Objects**.
+3. Completed the Workshop **Build a Recipe Tracker**.
+4. Completed the lab **Build a Quiz Game**.
+5. Read the review article **JavaScript Objects Review**.
+6. Attempted the quiz **JavaScript Object Quiz**, and passed.
