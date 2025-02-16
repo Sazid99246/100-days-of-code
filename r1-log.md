@@ -519,3 +519,22 @@ On FreeCodeCamp
 4. Completed the lab **Build a Quiz Game**.
 5. Read the review article **JavaScript Objects Review**.
 6. Attempted the quiz **JavaScript Object Quiz**, and passed.
+
+### Day 50, February 16, Sunday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched lectures on **Working with Loops**.
+3. Completed the Workshop **Build a Sentence Analyzer**.
+4. Completed the lab **Build a Factorial Calculator**.
+5. Read the review article **JavaScript Loops Review**.
+6. Attempted the quiz **JavaScript Loops Quiz**, and passed.
+
+From the Course **Computer Science: Programming with a Purpose**
+=========================
+7. Watched all the lectures from module 6. From today's lectures, I learned recursion, and how it works. Also there was a bit of dynamic programming, but not its details.
+8. Attempted the quiz and passed.
+9. Completed the programming assignment.
+
+I am becoming too much busy with my university study. So, I can not continuously progress in the course, but trying to make a little progress occasionally.
