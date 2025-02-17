@@ -538,3 +538,12 @@ From the Course **Computer Science: Programming with a Purpose**
 9. Completed the programming assignment.
 
 I am becoming too much busy with my university study. So, I can not continuously progress in the course, but trying to make a little progress occasionally.
+
+### Day 51, February 17, Monday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched lectures on **Understanding Core JavaScript Fundamentals**.
+3. Completed the lab **Build a Pyramid Generator**.
+4. Completed the lab **Build a Gradebook App**.
