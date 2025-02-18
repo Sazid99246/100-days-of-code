@@ -547,3 +547,8 @@ On FreeCodeCamp
 2. Watched lectures on **Understanding Core JavaScript Fundamentals**.
 3. Completed the lab **Build a Pyramid Generator**.
 4. Completed the lab **Build a Gradebook App**.
+
+### Day 52, February 18, Tuesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+Today, I was so much busy, and tired. So I couldn't do so much code. By the way, the course I was doing from Coursera on Java programming, I think it is not a good course as it shows all its programs using their own built library functions. So I was in search of some great courses on internet, but couldn't get any. Could you please suggest one?
