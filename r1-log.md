@@ -552,3 +552,14 @@ On FreeCodeCamp
 1. Solved Problem of the day on **GeeksforGeeks**
 
 Today, I was so much busy, and tired. So I couldn't do so much code. By the way, the course I was doing from Coursera on Java programming, I think it is not a good course as it shows all its programs using their own built library functions. So I was in search of some great courses on internet, but couldn't get any. Could you please suggest one?
+
+### Day 53, February 19, Wednesday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched Lectures on **Higher Order Functions and Callbacks**.
+3. Completed the workshop **Build a Library Manager**.
+3. Completed the lab **Build a Book Organizer**.
+4. Read the review article **JavaScript Higher Order Functions Review**.
+5. Attempted the quiz and passed.
