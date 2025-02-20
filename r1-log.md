@@ -563,3 +563,12 @@ On FreeCodeCamp
 3. Completed the lab **Build a Book Organizer**.
 4. Read the review article **JavaScript Higher Order Functions Review**.
 5. Attempted the quiz and passed.
+
+### Day 54, February 20, Thursday
+1. Solved Problem of the day on **GeeksforGeeks**
+
+On FreeCodeCamp
+=========================
+2. Watched Lectures on **Working with DOM, Click events and Web APIs**.
+3. Completed the workshop **Build a Storytelling app**. Here is the [live link](https://sazid99246.github.io/storytelling-app/)
+4. Completed the lab **Build a Favorite Icon Toggler**. Here is the [live link](https://sazid99246.github.io/icon-toggler/)
