@@ -580,3 +580,6 @@ On FreeCodeCamp
 =========================
 2. Watched lectures on **Understanding the Event Object and Event Delegation**.
 3. Completed the workshop **Build a Music Instrument Filter**.
+
+### Day 56, February 22, Saturday
+1. Solved Problem of the day on **GeeksforGeeks**
