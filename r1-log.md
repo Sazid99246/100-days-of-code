@@ -583,3 +583,6 @@ On FreeCodeCamp
 
 ### Day 56, February 22, Saturday
 1. Solved Problem of the day on **GeeksforGeeks**
+
+### Day 57, February 23, Sunday
+1. Solved Problem of the day on **GeeksforGeeks**
